@@ -66,9 +66,9 @@ title = "Data Science Intern"
   location = "India"
   date_start = "2016-06-06"
   date_end = "2019-06-07"
-  description = """
+  description = 
   
-  
+  """
   *   Performed statistical analysis of FI and SD data and suggested tangible solutions to stakeholders by visualizing the KPI metrics in Tableau.
     
   *   Streamlined workflows and built applications in SAP business modules deploying the applications using the IBM TWS tool.
