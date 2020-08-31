@@ -39,17 +39,31 @@ title = "Data Science Intern"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "ML Research Assistant"
+  company = "University of Illlinois at Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chicago"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  Prediction of Diabetes from Lumiata Claims dataset  
+  
+  
+  *   Streamlined ETL operations on a semi-structured Claims dataset and analyzed the important variables i.e. LOINC, ICD 10 and, CPT codes.
+		Balanced the data using stratified sampling and predicted the probability of diabetes for patients using SVC model achieving a recall of 89%. 
+    
+  Identification of Leader words from any local meaning 
+  
+  *   Optimized Python script to transform unstructured data from Merriam Webster dictionary to structured format a strong rule-based association. 
+	Modeled a Universal Leader words identifier using Bi-directional LSTM which takes Glove Embedding and POS tags attaining a recall of 96%. 
+ 
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Business Analyst"
+  company = "CGI"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
