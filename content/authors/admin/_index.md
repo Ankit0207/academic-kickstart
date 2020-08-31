@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:bvsankitds@gmail.com".
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@bvsankitds
 - icon: github
   icon_pack: fab
   link: https://github.com/Ankit0207
