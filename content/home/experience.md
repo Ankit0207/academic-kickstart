@@ -18,36 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Science Intern"
-  company = "AutomizeApps"
+title = "CEONEW"
+  company = "GenCoin"
   company_url = ""
-  location = "Germany"
-  date_start = "2020-05-01"
-  date_end = "Present"
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Sentiment Analysis of Product Reviews 
-  *   Implemented a rule-based classification and a Deep Learning LSTM model for sentiment analysis of 4 different languages i.e. English, Spanish, German, and French. The rule-based model outperformed the LSTM model achieving an accuracy of 92%.
-  * Twitter Topic Modeling Application 
-  *   Developed an application that applies topic modeling on the tweets of a subject using unsupervised LDA, and semi-supervised CorEx.  Obtained 10 different latent topics and their sentiment over 14 weeks. Deployed the model in production using Azure ML deployment 
-  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "ML Research Assistant"
-  company = "University of Illinois at Chicago"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Chicago"
-  date_start = "2020-05-01"
-  date_end = "Present"
-  #description = """Taught electronic engineering and researched semiconductor physics."""
-  Responsibilities include:
-  
-  * Sentiment Analysis of Product Reviews 
-  *   Implemented a rule-based classification and a Deep Learning LSTM model for sentiment analysis of 4 different languages i.e. English, Spanish, German, and French. The rule-based model outperformed the LSTM model achieving an accuracy of 92%.
-  * Twitter Topic Modeling Application 
-  *   Developed an application that applies topic modeling on the tweets of a subject using unsupervised LDA, and semi-supervised CorEx.  Obtained 10 different latent topics and their sentiment over 14 weeks. Deployed the model in production using Azure ML deployment 
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 
 +++
