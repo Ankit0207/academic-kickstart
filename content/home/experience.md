@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Data Science Intern"
+  company = "AutomizeApps"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Germany"
+  date_start = "2020-05-01"
+  date_end = "Present"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Sentiment Analysis of Product Reviews 
+  *   Implemented a rule-based classification and a Deep Learning LSTM model for sentiment analysis of 4 different languages i.e. English, Spanish, German, and French. The rule-based model outperformed the LSTM model achieving an accuracy of 92%.
+  * Twitter Topic Modeling Application 
+  *   Developed an application that applies topic modeling on the tweets of a subject using unsupervised LDA, and semi-supervised CorEx.  Obtained 10 different latent topics and their sentiment over 14 weeks. Deployed the model in production using Azure ML deployment 
+  
   """
 
 [[experience]]
