@@ -25,7 +25,6 @@ title = "Data Science Intern"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
   Sentiment Analysis of Product Reviews 
   
@@ -46,7 +45,6 @@ title = "Data Science Intern"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
   Prediction of Diabetes from Lumiata Claims dataset  
   
@@ -69,10 +67,8 @@ title = "Data Science Intern"
   date_start = "2016-06-06"
   date_end = "2019-06-07"
   description = """
-  Responsibilities include:
   
   Prediction of Diabetes from Lumiata Claims dataset  
-  
   
   *   Performed statistical analysis of FI and SD data and suggested tangible solutions to stakeholders by visualizing the KPI metrics in Tableau.
     
