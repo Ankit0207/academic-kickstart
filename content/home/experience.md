@@ -27,9 +27,10 @@ title = "Data Science Intern"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+* Sentiment Analysis of Product Reviews 
+  *   Implemented a rule-based classification and a Deep Learning LSTM model for sentiment analysis of 4 different languages i.e. English, Spanish, German, and French. The rule-based model outperformed the LSTM model achieving an accuracy of 92%.
+  * Twitter Topic Modeling Application 
+  *   Developed an application that applies topic modeling on the tweets of a subject using unsupervised LDA, and semi-supervised CorEx.  Obtained 10 different latent topics and their sentiment over 14 weeks. Deployed the model in production using Azure ML deployment 
   """
 
 [[experience]]
