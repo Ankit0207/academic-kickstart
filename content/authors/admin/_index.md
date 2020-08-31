@@ -52,7 +52,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/Ankit_Bagusetty_Resume.pdf
-
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@bvsankitds  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
