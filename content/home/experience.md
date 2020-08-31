@@ -22,7 +22,7 @@ title = "Data Science Intern"
   company = "AutomizeApps"
   company_url = ""
   location = "Chicago"
-  date_start = "2017-01-01"
+  date_start = "2020-05-01"
   date_end = ""
   description = """
   Responsibilities include:
